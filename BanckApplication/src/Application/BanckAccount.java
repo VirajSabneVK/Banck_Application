@@ -9,6 +9,7 @@ import java.util.Scanner;
   */
 public class BanckAccount {
 
+	// Created Instance Variables
 	int balance;
 	int previousTransaction;
 
